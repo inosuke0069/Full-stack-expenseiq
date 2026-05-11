@@ -1,0 +1,6 @@
+cd "D:\Me\python pp1\frontend" 
+npm start 
+
+"d:\Me\python pp1\venv\Scripts\activate.bat"
+cd expense_tracker
+uvicorn main:app --reload
